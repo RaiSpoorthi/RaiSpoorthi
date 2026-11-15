@@ -48,7 +48,7 @@ Automated web application scanner built on OWASP ZAP, with a Flask API, a result
 
 **Security:** Identity & Access Management, Zero Trust, SSO/MFA, RBAC, vulnerability management, threat detection (academic)
 
-**Also:** SQL, Docker, Active Directory, Power BI, Wireshark, Nmap, Burp Suite
+**Also:** SQL, Docker, Active Directory, Power BI, Wireshark, Nmap, Burp Suite, Bruno, Claude Code
 
 ## Experience
 
