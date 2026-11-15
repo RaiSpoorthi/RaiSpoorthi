@@ -50,7 +50,9 @@ Automated web application scanner built on OWASP ZAP, with a Flask API, a result
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,c,powershell,git,azure,postman,kali,terraform,githubactions,flask,tensorflow" alt="Tech stack">
 </p>
 
-Also: SQL, Active Directory, Power BI, Wireshark, Nmap, Burp Suite, OWASP ZAP, OPA/Rego, Checkov, YARA
+**Security:** Identity & Access Management, Zero Trust, SSO/MFA, RBAC, vulnerability management, threat detection (academic)
+
+**Also:** SQL, Docker, Active Directory, Power BI, Wireshark, Nmap, Burp Suite
 
 ## Experience
 
@@ -59,12 +61,6 @@ Bug fixes, feature enhancements, pull request reviews and Jira tickets on a heal
 
 **IT Intern, Zero Trust and Identity & Access Management** - Johnson Controls India (Jan - Jun 2026)
 Access provisioning and lifecycle management in Azure AD and Active Directory, PIM and access reviews, ServiceNow tickets, Guardicore micro-segmentation and Qualys VMDR vulnerability work, with PowerShell and Python scripting.
-
-## Skills
-
-- **Security:** Identity & Access Management, Zero Trust, SSO/MFA, RBAC, vulnerability management, threat detection (academic)
-- **Languages:** Python, JavaScript/TypeScript, SQL, C, PowerShell
-- **Tools:** Git, Azure, Active Directory, Postman, Power BI, Wireshark, Nmap, Burp Suite, Kali Linux
 
 ## Certifications
 
