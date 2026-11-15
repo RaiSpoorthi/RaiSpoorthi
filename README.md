@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="profile.jpg" width="180" alt="Spoorthi Rai">
-</p>
-
 <h1 align="center">Hi, I'm Spoorthi Rai 👋</h1>
 
 <p align="center">
@@ -47,7 +43,7 @@ Automated web application scanner built on OWASP ZAP, with a Flask API, a result
 ## Tech stack & tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,c,powershell,git,azure,postman,kali,terraform,githubactions,flask,tensorflow" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,powershell,git,azure,postman,kali" alt="Tech stack">
 </p>
 
 **Security:** Identity & Access Management, Zero Trust, SSO/MFA, RBAC, vulnerability management, threat detection (academic)
