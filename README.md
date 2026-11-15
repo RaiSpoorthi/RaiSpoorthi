@@ -44,11 +44,15 @@ Automated web application scanner built on OWASP ZAP, with a Flask API, a result
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,powershell,git,azure,postman,kali" alt="Tech stack">
+  <img src="icons/wireshark.svg" height="48" alt="Wireshark">
+  <img src="icons/nmap.svg" height="48" alt="Nmap">
+  <img src="icons/bruno.svg" height="48" alt="Bruno">
+  <img src="icons/claude.svg" height="48" alt="Claude Code">
 </p>
 
 **Security:** Identity & Access Management, Zero Trust, SSO/MFA, RBAC, vulnerability management, threat detection (academic)
 
-**Also:** SQL, Docker, Active Directory, Power BI, Wireshark, Nmap, Burp Suite, Bruno, Claude Code
+**Also:** SQL, Docker, Active Directory, Power BI, Burp Suite
 
 ## Experience
 
