@@ -11,7 +11,9 @@
   <img src="https://img.shields.io/badge/Open%20to-Software%20%7C%20Product%20%7C%20Security%20roles-success" alt="Open to roles">
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-raispoorthi.github.io-2347e0?style=for-the-badge)](https://raispoorthi.github.io)
+<p align="center">
+  <a href="https://raispoorthi.github.io"><img src="https://img.shields.io/badge/Portfolio-raispoorthi.github.io-2347e0?style=for-the-badge" alt="Portfolio"></a>
+</p>
 
 ---
 
